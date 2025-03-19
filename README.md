@@ -1,6 +1,4 @@
 
----
-
 # 💣 **Text-Based Minesweeper Game in C**  
 
 This project features a **text-based Minesweeper game** developed in **C** with a focus on efficient board generation, strategic mine placement, and an intuitive user interface. The game delivers a challenging yet fair experience by balancing randomness and playability.  
