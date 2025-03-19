@@ -54,11 +54,6 @@ Example gameplay:
 
 ---
 
-## 👨‍💻 **Developer**  
-💻 **Harminder Singh Saini** – Designed and implemented game logic, board generation, and display functions.  
-
----
-
 ## 🎮 **How to Play**  
 1. Clone the repository:  
 ```bash
@@ -75,6 +70,6 @@ gcc -o minesweeper minesweeper.c
 
 ---
 
-✨ **Enjoy the game and feel free to contribute!**  
+**Enjoy the game and feel free to contribute!**  
 
 ---
