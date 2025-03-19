@@ -1,4 +1,3 @@
-Here’s a polished and visually appealing GitHub description for your Minesweeper project:
 
 ---
 
@@ -79,5 +78,3 @@ gcc -o minesweeper minesweeper.c
 ✨ **Enjoy the game and feel free to contribute!**  
 
 ---
-
-Let me know if you want to modify anything! 😎
