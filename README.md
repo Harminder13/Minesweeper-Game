@@ -1,9 +1,83 @@
-Text-Based Minesweeper Game in C
+Here’s a polished and visually appealing GitHub description for your Minesweeper project:
 
-For this project, I engineered a text-based Minesweeper game in C with a focus on efficient board generation, mine placement, and a user-friendly interface.
+---
 
-To ensure an engaging player experience, I designed and implemented the board initialization function. This function ensures a balanced distribution of mines across the board, creating challenging but fair gameplay.
+# 💣 **Text-Based Minesweeper Game in C**  
 
-I also developed a display function that provides players with a clear and visually appealing representation of the Minesweeper grid. This function enhances the user interface, making it easier for players to navigate and interact with the game.
+This project features a **text-based Minesweeper game** developed in **C** with a focus on efficient board generation, strategic mine placement, and an intuitive user interface. The game delivers a challenging yet fair experience by balancing randomness and playability.  
 
-Throughout the development process, I addressed challenges in mine placement algorithms to enhance the game's randomness while maintaining playability. By overcoming these challenges, I was able to create a Minesweeper game that offers both enjoyable gameplay and a satisfying user experience.
+---
+
+## 🎯 **Project Overview**  
+🔹 Developed in **C** for optimized performance and low-level memory control.  
+🔹 Focused on creating an engaging and challenging player experience through balanced mine distribution.  
+🔹 Built with a clean and easy-to-use terminal interface for smooth gameplay.  
+
+---
+
+## 🛠️ **Core Features**
+### 🧩 **Board Generation and Mine Placement**  
+- Efficient algorithm for mine placement ensures a fair distribution of mines.  
+- Dynamic board resizing supports various levels of difficulty.  
+
+### 🖥️ **Game Display and Interface**  
+- Clean terminal-based display for easy navigation.  
+- Real-time updates when uncovering cells and marking mines.  
+
+### ⚙️ **Game Mechanics**  
+- Left-click to reveal a cell; right-click to mark a mine.  
+- Automatically reveals adjacent empty cells for a smoother experience.  
+- Game-over scenario upon revealing a mine.  
+
+---
+
+## 🌟 **Challenges and Solutions**  
+✅ **Mine Placement:** Ensured balanced randomness without clustering mines together.  
+✅ **Recursive Flood Fill:** Efficient handling of adjacent empty cell reveals using a recursive algorithm.  
+✅ **UI Feedback:** Added clear indicators for flagged cells and mines to improve the user experience.  
+
+---
+
+## 📸 **Preview**  
+Example gameplay:  
+```  
+   1 1 *  
+   1 * 2  
+   1 2 *  
+```  
+
+---
+
+## 🚀 **Future Improvements**  
+✅ Implement a timer to track game duration.  
+✅ Add customizable board sizes and difficulty levels.  
+✅ Include color-coded cells for improved visibility.  
+
+---
+
+## 👨‍💻 **Developer**  
+💻 **Harminder Singh Saini** – Designed and implemented game logic, board generation, and display functions.  
+
+---
+
+## 🎮 **How to Play**  
+1. Clone the repository:  
+```bash
+git clone https://github.com/yourusername/minesweeper.git
+```
+2. Compile the code:  
+```bash
+gcc -o minesweeper minesweeper.c
+```
+3. Run the game:  
+```bash
+./minesweeper
+```
+
+---
+
+✨ **Enjoy the game and feel free to contribute!**  
+
+---
+
+Let me know if you want to modify anything! 😎
